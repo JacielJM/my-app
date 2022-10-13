@@ -1,0 +1,11 @@
+h4 {
+	color: red;
+}
+
+.dish {
+	width: 180px;
+	height: auto;
+	padding-bottom: 5px;
+	background-color: olivedrab;
+	border-radius: 5px;
+}
